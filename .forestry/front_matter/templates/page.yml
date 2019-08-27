@@ -1,7 +1,6 @@
 ---
 label: page
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -24,6 +23,6 @@ fields:
   label: Aside
   description: Show the sidebar / aside
 pages:
-- 404.md
-- index.md
 - about.md
+- index.md
+- 404.md
