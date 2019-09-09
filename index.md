@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Hacktoberfest 2019 Events
 layout: page
 feature_image: "/uploads/Hacktoberfest_19_Events_2050x1025.png"
-feature_text: "## Hacktoberfest 2019 Events"
+feature_text: "## Events"
 aside: false
 published: false
 
