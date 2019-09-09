@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this website
-feature_image: ''
+feature_image: "/uploads/Hacktoberfest_19_Events_2050x1025.png"
 feature_text: ''
 aside: false
 
