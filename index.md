@@ -1,9 +1,10 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+feature_image: "/uploads/Hacktoberfest_19_Events_2050x1025.png"
+feature_text: "## Hacktoberfest 2019 Events"
+aside: false
+published: false
 
+---
 There isn't much going on here yet, but watch this space
